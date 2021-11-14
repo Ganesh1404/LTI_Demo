@@ -19,4 +19,9 @@ public class KiteHomePage
 		String actUserID = userID.getText();
 		return actUserID;
 	}
+	public String verifyKiteHomePageUserID1()
+	{
+		String actUserID = userID.getText();
+		return actUserID;
+	}
 }
